@@ -81,7 +81,7 @@ GET / HTTP/1.1
 
 Host: sandbox.usm.com
 
-User-Agent: Ivancioglo Ivan
+User-Agent: Ciolac Dmitri
 
 *User-Agent - это заголовок, содержащий информацию о клиенте (браузере или приложении).*
 
@@ -103,7 +103,7 @@ PUT /cars/1 HTTP/1.1
 
 Host: sandbox.usm.com
 
-User-Agent: Ivancioglo Ivan
+User-Agent: Ciolac Dmitri
 
 Content-Type: application/json
 
